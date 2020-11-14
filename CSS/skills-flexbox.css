@@ -15,7 +15,7 @@
     .flex-container > li {
       background: linear-gradient(to top left, #28313b 0%, #485461 100%);
       width: 400px;
-      height:300px;
+      height:450px;
       margin: 10px;
       text-align: center;
       color: white;
@@ -40,7 +40,7 @@
     .flex-container > li {
       background: linear-gradient(to top left, #28313b 0%, #485461 100%);
       width: 500px;
-      height:300px;
+      height:450px;
       margin: 10px;
       text-align: center;
       color: white;
