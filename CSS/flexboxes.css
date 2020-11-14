@@ -10,7 +10,7 @@
     }
   
     .flex-container > li {
-      background-color: #636363;
+      background-color: #4b4b4b;
       width: 400px;
       height:300px;
       margin: 10px;
@@ -31,7 +31,7 @@
     }
   
     .flex-container > li {
-      background-color: #636363;
+      background-color: #4b4b4b;
       width: 1000px;
       height:500px;
       margin: 10px;
