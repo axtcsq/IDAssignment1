@@ -15,8 +15,8 @@ ul{list-style: none;}
   }
 
   .flex-container > li {
-    width: 400px;
-    height:650px;
+    width: 350px;
+    height: 650px;
     margin: 10px;
     text-align: center;
     color: white;
@@ -40,7 +40,7 @@ ul{list-style: none;}
 
   .flex-container > li {
     width: 600px;
-    height:500px;
+    height: 500px;
     margin: 10px;
     text-align: center;
     color: white;
