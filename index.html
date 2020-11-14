@@ -1,17 +1,58 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>About me</title>
+    <title>Home</title>
     <link href="normalize.css" rel="stylesheet" type="text/css" />
     <link href="style.css" rel="stylesheet" type="text/css" />
+    
+    <style>
+        ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        }
+
+        li {
+        float: left;
+        }
+
+        li a {
+        display: block;
+        color: white;
+        text-align: center;
+        /*padding: height, width*/
+        padding: 15px 20px;
+        text-decoration: none;
+        }
+
+        li a:hover:not(.active) {
+        background-color: rgb(0, 0, 0);
+        }
+
+        .active {
+        background-color: #d69224;
+        }
+    </style>
 </head>
 <body>
-  <div class="header">
-    <img src="me.png" alt="Picture of me" width="150" height="150">
-    <h1>About me</h1>
-  </div>
+    <!--Navigation bar-->
+    <ul>
+        <li><a class="active" href="#home">Home</a></li>
+        <li><a href="#news">Education</a></li>
+        <li><a href="#contact">Skills</a></li>
+        <li><a href="#about">Contact</a></li>
+        <li><a href="#about">Projects</a></li>
+        <li><a href="#about">References</a></li>
+    </ul>
+
+    <div class="header1">
+        <img src="profile.jpg" alt="Picture of me" width="150" height="150">
+        <h1>Alexander Tan</h1>
+    </div>
   
   <article>
     <ul class="flex-container">
