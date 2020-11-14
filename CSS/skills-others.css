@@ -3,12 +3,11 @@ body{
     }
 
 .header {
-        padding: 100px;
-        text-align: center;
-        background-image: url(../Pictures/skills2.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-        color: white;
+    padding: 100px;
+    text-align: center;
+    background-image: url(../Pictures/skills2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     }
 
 h2{
