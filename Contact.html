@@ -7,9 +7,9 @@
 
     <!--Linking external CSS-->
     <link href="CSS\normalize.css" rel="stylesheet" type="text/css" />
-    <link href="CSS\flexboxes.css" rel="stylesheet" type="text/css" />
+    <link href="CSS\contact-flexbox.css" rel="stylesheet" type="text/css" />
     <link href="CSS\navbar.css" rel="stylesheet" type="text/css" />
-    <link href="CSS\others.css" rel="stylesheet" type="text/css" />
+    <link href="CSS\contact-others.css" rel="stylesheet" type="text/css" />
     
 </head>
 <body>
@@ -22,5 +22,70 @@
         <li><a href="Projects.html">Projects</a></li>
         <li><a href="References.html">References</a></li>
     </ul>
+
+    <div class="header">
+        <img src="Pictures\contact.png" alt="Picture of contacts" width="150" height="150">
+        <h1>Contact</h1>  
+    </div>
+    
+    <!--Form-->
+    <article>
+        <ul class="flex-container">
+            <!--Phone-->
+            <li class="flex-item">
+                <h2>Phone</h2>
+                <a href="tel:+6583768698" title="Click here to call me">
+                    <img src="Pictures\phone.png" alt="Picture of phone" width="150" height="150"></a>
+              </li>
+    
+              <!--Email-->
+              <li class="flex-item">
+                <h2>Email</h2>
+                <a href="mailto:s10194188@connect.np.edu.sg" title="Click here to email me">
+                    <img src="Pictures\email.png" alt="Picture of email" width="150" height="150"></a>
+              </li>
+            
+              <!--Form-->
+              <li class="flex-item" style="height: 830px;">
+                <h2>Forms</h2>
+                <img src="Pictures\forms2.png" alt="Picture of forms" width="150" height="150">
+                <form action="/action_page.php" method="get" style="text-align: center;">
+                    <br>
+                    <label>Name:
+                      <input type="text" placeholder="Enter name" name="name">
+                  </label>
+        
+                  <br><br>
+        
+                  <h3>Please select your age:</h3>
+                      <input type="radio" id="age1" name="age" value="30">
+                      <label for="age1">0 - 30</label><br>
+                      <input type="radio" id="age2" name="age" value="60">
+                      <label for="age2">31 - 60</label><br>  
+                      <input type="radio" id="age3" name="age" value="80">
+                      <label for="age3">61 - 80</label><br>
+                      <input type="radio" id="age4" name="age" value="100">
+                      <label for="age3">81 - 100</label>
+                  
+                  <h3>Please select what you liked about this website (Choose more than 1):</h3>
+                      <input type="checkbox" id="choice1" name="choice1" value="Colour scheme">
+                      <label for="choice1">Colour scheme</label><br>
+                      <input type="checkbox" id="choice2" name="choice2" value="Design">
+                      <label for="choice2">Design</label><br>
+                      <input type="checkbox" id="choice3" name="choice3" value="Layout & presentation">
+                      <label for="choice3">Layout & presentation</label><br>
+                      <input type="checkbox" id="choice4" name="choice4" value="Uniformity">
+                      <label for="choice4">Uniformity</label><br>
+        
+                  <h3>Enter your feedback here:</h3>
+                  <textarea rows="4" cols="40" name="textbox"></textarea>
+        
+                  <br><br>
+        
+                  <input type="submit" value="Submit">
+                  </form>
+              </li>
+            </ul>
+          </article>
 </body>
 </html>
