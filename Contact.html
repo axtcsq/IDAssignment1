@@ -18,8 +18,8 @@
         <li><a class="active" href="index.html">Home</a></li>
         <li><a href="Education.html">Education</a></li>
         <li><a href="Skills.html">Skills</a></li>
-        <li><a href="Contact.html">Contact</a></li>
         <li><a href="Projects.html">Projects</a></li>
+        <li><a href="Contact.html">Contact</a></li>
         <li><a href="References.html">References</a></li>
     </ul>
 
@@ -47,17 +47,14 @@
             
               <!--Form-->
               <li class="flex-item" style="height: 830px;">
-                <h2>Forms</h2>
-                <img src="Pictures\forms2.png" alt="Picture of forms" width="150" height="150">
-                <form action="/action_page.php" method="get" style="text-align: center;">
-                    <br>
-                    <label>Name:
-                      <input type="text" placeholder="Enter name" name="name">
+                <h2>Form</h2>
+                <img src="Pictures\forms2.png" alt="Picture of form" width="150" height="150">
+                <form action="/action_page.php" method="POST" style="text-align: center;">
+                    <label><h3>Name:</h3>
+                      <input type="text" placeholder="Enter your name" name="name">
                   </label>
-        
-                  <br><br>
-        
-                  <h3>Please select your age:</h3>
+                  
+                  <h3>Select your age:</h3>
                       <input type="radio" id="age1" name="age" value="30">
                       <label for="age1">0 - 30</label><br>
                       <input type="radio" id="age2" name="age" value="60">
@@ -67,18 +64,18 @@
                       <input type="radio" id="age4" name="age" value="100">
                       <label for="age3">81 - 100</label>
                   
-                  <h3>Please select what you liked about this website (Choose more than 1):</h3>
-                      <input type="checkbox" id="choice1" name="choice1" value="Colour scheme">
-                      <label for="choice1">Colour scheme</label><br>
-                      <input type="checkbox" id="choice2" name="choice2" value="Design">
-                      <label for="choice2">Design</label><br>
-                      <input type="checkbox" id="choice3" name="choice3" value="Layout & presentation">
-                      <label for="choice3">Layout & presentation</label><br>
-                      <input type="checkbox" id="choice4" name="choice4" value="Uniformity">
-                      <label for="choice4">Uniformity</label><br>
+                  <h3>Enquiry on:</h3>
+                      <input type="checkbox" id="choice1" name="choice1" value="Education background">
+                      <label for="choice1">Education background</label><br>
+                      <input type="checkbox" id="choice2" name="choice2" value="Project experiences">
+                      <label for="choice2">Project experiences</label><br>
+                      <input type="checkbox" id="choice3" name="choice3" value="Skills">
+                      <label for="choice3">Skills</label><br>
+                      <input type="checkbox" id="choice4" name="choice4" value="Others">
+                      <label for="choice4">Others</label><br>
         
-                  <h3>Enter your feedback here:</h3>
-                  <textarea rows="4" cols="40" name="textbox"></textarea>
+                  <h3>Message & feedback:</h3>
+                  <textarea rows="5" cols="30" name="textbox" placeholder="Enter text here"></textarea>
         
                   <br><br>
         
