@@ -15,8 +15,9 @@ ul{list-style: none;}
   }
 
   .flex-container > li {
-    width: 350px;
-    height: 650px;
+    background: linear-gradient(to top left, #28313b 0%, #485461 100%);
+    width: 420px;
+    height: auto;
     margin: 10px;
     text-align: center;
     color: white;
@@ -39,8 +40,9 @@ ul{list-style: none;}
   }
 
   .flex-container > li {
-    width: 600px;
-    height: 500px;
+    background: linear-gradient(to top left, #28313b 0%, #485461 100%);
+    width: 800px;
+    height: auto;
     margin: 10px;
     text-align: center;
     color: white;
