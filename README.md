@@ -1,2 +1,2 @@
 # assignment1
-assignment 1
+The user audience for this website is catered to future employers who would like to look at my website portfolio. The purpose of this website is to create a portfolio about me, such that I can showcase it my future employer. Any external source code used can be found in the word document titled "References". A reference page has also been created to attribute such sources.
