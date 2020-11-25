@@ -1,10 +1,10 @@
-# Assignment 1
-The user audience for this website is catered to future employers who would like to look at my website portfolio. The purpose of this website is to create a portfolio about me, such that I can showcase it my future employer. Any external source code used can be found in the word document titled "References". A reference page has also been created to attribute such sources.
+# Purpose and target audience
+The user audience for this website is catered to future employers who would like to look at my website portfolio. The purpose of this website is to create a portfolio about me, such that I can showcase it my future employer. Any external source code used can be found in the word document titled "References". A reference page has been created to attribute such sources as well.
 
+# How it was designed
 This website was designed with a modern and simple take. Each page contains flexboxes and media queries, thus making it a responsive website that caters to different devices and screen size. In creation of this portfolio website, I hope it gives my future employer a general idea about myself and my work.
 
-List of references
-
+# References
 Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime photo [Online 
     image]. Unsplash. 
     https://unsplash.com/photos/P9BY2joAcwk
