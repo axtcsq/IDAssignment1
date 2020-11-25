@@ -6,9 +6,16 @@ For this assignment, this website has been designed to be simple, modern and aes
 
 With that said, I had to think of what are the important pages and informations I should include on my site. By thinking through the perspective of what an employer would like to see, I have came up with Home, Educcation, Skills, Projects and Contact page. 
 
-Previously I a Reference page was also created, but I have decided to remove it since it is likely that the employer would not bother seeing it. Thus, I have moved it to a section and have attached a Word document named "References". Doing so helps to make the navigation bar more simpler and clutter-free.
+Previously a Reference page was also created, but I have since removed it since the employer or an average user would bother seeing it. Thus, I have moved it to a section and have also attached a Word document named "References". Doing so helps to make the navigation bar more simpler and clutter-free as well.
 
-As you navigate through the different pages, you would notice that there is strong uniformity in design language and layout. Thinking from the perspective of an employer and a user, it would be much professional to keep it uniformed and simple. Doing so also cuts down on development time, as I could simply reuse the shell and modify according to the page's requirements.
+### Uniformity and Simplicity
+As you navigate through the different pages, you would notice that there is strong uniformity in its design language and layout. Thinking from the perspective of an employer and a user, it would be much professional to keep it uniform and simple. Doing so helps to cut down on development time, as I could simply reuse the shell and modify accordingly to the page's requirements.
+
+### Dark mode
+All pages have been designed with dark mode in mind as well. As a user, if I were to view this at night or in a low-light environment, I would certainly prefer darker colours since it would not blind my eyes.
+
+### Pictures
+Multiple pictures have also been used to make the website look more modern and aesthetically pleasing. As a user, I would prefer a website with good aesthetics than those with terrible or no aesthetics, as it conveys a message to me that the developer bothered to put in the effort for even minor little details.
 
 ## References
 References are displayed here, it can also be found in the attached word document titled "References".
