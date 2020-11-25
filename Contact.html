@@ -9,9 +9,9 @@
     <link href="CSS/normalize.css" rel="stylesheet" type="text/css" />
     <link href="CSS/contact-flexbox.css" rel="stylesheet" type="text/css" />
     <link href="CSS/navbar.css" rel="stylesheet" type="text/css" />
-    <link href="CSS/contact-others.css" rel="stylesheet" type="text/css" />
-    
+    <link href="CSS/contact-others.css" rel="stylesheet" type="text/css" />  
 </head>
+
 <body>
     <!--Navigation bar-->
     <ul>
@@ -28,7 +28,7 @@
         <h1>Contact</h1>  
     </div>
     
-    <!--Form-->
+    <!--Form and flexboxes-->
     <article>
         <ul class="flex-container">
             <!--Phone-->
@@ -36,25 +36,26 @@
                 <h2>Phone</h2>
                 <a href="tel:+6583768698" title="Click here to call me">
                     <img src="Pictures/phone.png" alt="Picture of phone" width="130" height="130"></a>
-              </li>
+            </li>
     
-              <!--Email-->
-              <li class="flex-item">
+            <!--Email-->
+            <li class="flex-item">
                 <h2>Email</h2>
                 <a href="mailto:s10194188@connect.np.edu.sg" title="Click here to email me">
                     <img src="Pictures/email.png" alt="Picture of email" width="150" height="150"></a>
-              </li>
+            </li>
             
-              <!--Form-->
-              <li class="flex-item" style="height: 830px;">
+            <!--Form-->
+            <li class="flex-item" style="height: 830px;">
                 <h2>Form</h2>
                 <img src="Pictures/forms2.png" alt="Picture of form" width="150" height="150">
                 <form action="/action_page.php" method="POST" style="text-align: center;">
                     <label><h3>Name:</h3>
                       <input type="text" placeholder="Enter your name" name="name">
-                  </label>
+                    </label>
                   
-                  <h3>Select your age:</h3>
+                    <!--Age question with radio buttons-->
+                    <h3>Select your age:</h3>
                       <input type="radio" id="age1" name="age" value="30">
                       <label for="age1">0 - 30</label><br>
                       <input type="radio" id="age2" name="age" value="60">
@@ -64,7 +65,8 @@
                       <input type="radio" id="age4" name="age" value="100">
                       <label for="age3">81 - 100</label>
                   
-                  <h3>Enquiry on:</h3>
+                    <!--Enquiry question with checkboxes-->  
+                    <h3>Enquiry on:</h3>
                       <input type="checkbox" id="choice1" name="choice1" value="Education background">
                       <label for="choice1">Education background</label><br>
                       <input type="checkbox" id="choice2" name="choice2" value="Project experiences">
@@ -73,16 +75,18 @@
                       <label for="choice3">Skills</label><br>
                       <input type="checkbox" id="choice4" name="choice4" value="Others">
                       <label for="choice4">Others</label><br>
+                    
+                    <!--Message and feedback question with a textbox-->
+                    <h3>Message & feedback:</h3>
+                    <textarea rows="5" cols="30" name="textbox" placeholder="Enter text here"></textarea>
         
-                  <h3>Message & feedback:</h3>
-                  <textarea rows="5" cols="30" name="textbox" placeholder="Enter text here"></textarea>
+                    <br><br>
         
-                  <br><br>
-        
-                  <input type="submit" value="Submit">
-                  </form>
-              </li>
-            </ul>
-          </article>
+                    <!--Submit button-->
+                    <input type="submit" value="Submit">
+                </form>
+            </li>
+        </ul>
+    </article>
 </body>
 </html>
