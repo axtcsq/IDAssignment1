@@ -35,11 +35,21 @@ To be added once Adobe Outage is fixed
 Mobile wireframe (Share URL):
 To be added once Adobe Outage is fixed
 
-## References
+## Features
+### Existing Features
+
+### Features Left to Implement
+
+## Technologies Used
+
+## Testing
+
+## Credits
+### Media
 References can also be found in the attached word document titled "References".
 
-Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime photo [Online 
-    image]. Unsplash. 
+Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime 
+    photo [Online image]. Unsplash. 
     https://unsplash.com/photos/P9BY2joAcwk
 
 dDara. (n.d.). Key Skills free icon [Online image]. Flaticon. 
@@ -72,27 +82,27 @@ Gallagher, Nicolas. (2018). Normalize.css. (Version 8.0.1). GitHub.
 Hume, Christin. (2018). person sitting in front of laptop photo [Online image]. Unsplash. 
     https://unsplash.com/photos/mfB1B1s4sMc
 
-Jeshoots. (2017). An open empty notebook on a white desk next to an iPhone and a MacBook photo 
-    [Online image]. Unsplash. 
+Jeshoots. (2017). An open empty notebook on a white desk next to an iPhone and a MacBook 
+    photo [Online image]. Unsplash. 
     https://unsplash.com/photos/pUAM5hPaCRI
 
-Koloda, Vasily. (2018). group of fresh graduates students throwing their academic hat in the air 
-    photo [Online image]. Unsplash. 
+Koloda, Vasily. (2018). group of fresh graduates students throwing their academic hat in 
+    the air photo [Online image]. Unsplash. 
     https://unsplash.com/photos/8CqDvPuo_kI
 
-Leon, Daniel. (2017). silhouette of mountains during nigh time photography photo [Online image]. 
-    Unsplash. 
+Leon, Daniel. (2017). silhouette of mountains during nigh time photography photo [Online 
+    image]. Unsplash. 
     https://unsplash.com/photos/v7daTKlZzaw
 
-Loia, Domenico. (2017). Macbook Pro on table beside white iMac and Magic Mouse photo [Online 
-    image]. Unsplash. 
+Loia, Domenico. (2017). Macbook Pro on table beside white iMac and Magic Mouse photo 
+    [Online image]. Unsplash. 
     https://unsplash.com/photos/hGV2TfOh0ns
 
 monkik. (n.d.). Skill free icon [Online image]. Flaticon. 
     https://www.flaticon.com/free-icon/skill_2405426?term=skill&page=1&position=64
 
-Reyes, Alvaro. (2018). person working on blue and white paper on board photo [Online image]. 
-    Unsplash. 
+Reyes, Alvaro. (2018). person working on blue and white paper on board photo 
+    [Online image]. Unsplash. 
     https://unsplash.com/photos/qWwpHwip31M
 
 Sikkema, Kelly. (2019). black ceramic mug beside white printer paper photo [Online image]. 
@@ -118,6 +128,7 @@ Spratt, Annie. (2018). woman browsing on the internet photo [Online image]. Unsp
 [Untitled illustration of a Zhonghua Secondary School logo]. Zhonghua Secondary School. 
     https://www.zhonghuasec.moe.edu.sg/about-us
 
+### Acknowledgements
 W3Schools. (n.d.). CSS. W3Schools.
     https://www.w3schools.com/css/default.asp
 
