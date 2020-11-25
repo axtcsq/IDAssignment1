@@ -10,7 +10,7 @@ Davies, Benjamin. (2017). person standing on gray high-rise rock formation at da
     https://unsplash.com/photos/P9BY2joAcwk
 
 dDara. (n.d.). Key Skills free icon [Online image]. Flaticon. 
-    https://www.flaticon.com/free-icon/key-skills_3095221?term=skill&page=1&position=10</
+    https://www.flaticon.com/free-icon/key-skills_3095221?term=skill&page=1&position=10
 
 Eucalyp. (n.d.). Resume free icon [Online image]. Flaticon. 
     https://www.flaticon.com/free-icon/resume_893505
