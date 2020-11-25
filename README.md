@@ -46,7 +46,7 @@ To be added once Adobe Outage is fixed
 
 ## Credits
 ### Media
-References can also be found in the attached word document titled "References".
+References can also be found in the attached Word document titled "References".
 
 Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime 
     photo [Online image]. Unsplash. 
