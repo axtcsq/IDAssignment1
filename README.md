@@ -17,6 +17,21 @@ All pages have been designed with dark mode in mind as well. As a user, if I wer
 ### Pictures
 Multiple pictures have also been used to make the website look more modern and aesthetically pleasing. As a user, I would prefer a website with good aesthetics than those with terrible or no aesthetics, as it conveys a message to me that the developer bothered to put in the effort for even minor little details.
 
+### Mockups and Diagrams
+Attached here are my draft sketchup of how I envisioned each of my pages to look like when I started this assignment.
+
+Link:
+https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/EhNtCriqZDVHoYsSgtuYW4wBOd0iwJAV1qLCt53YGbCQhw?e=3cjdg1
+
+### Adobe XD
+Attached here are my low-fidelity wireframes of my final design. The first link is for desktop, while the second link is for mobile.
+
+Desktop wireframe link:
+To be added once Adobe Outage is fixed
+
+Mobile wireframe link:
+To be added once Adobe Outage is fixed
+
 ## References
 References are displayed here, it can also be found in the attached word document titled "References".
 
