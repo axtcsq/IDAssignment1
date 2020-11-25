@@ -26,14 +26,17 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 ### Adobe XD
 Attached here are my low-fidelity wireframes of my final design. The first link is for desktop, while the second link is for mobile.
 
-Desktop wireframe link:
+Files:
+https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/Ei1fXNloXKVLsQ8SnoEKio0BRR2beBPcdSnRlaQpmK478Q?e=yGq4b7
+
+Desktop wireframe (Share URL):
 To be added once Adobe Outage is fixed
 
-Mobile wireframe link:
+Mobile wireframe (Share URL):
 To be added once Adobe Outage is fixed
 
 ## References
-References are displayed here, it can also be found in the attached word document titled "References".
+References can also be found in the attached word document titled "References".
 
 Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime photo [Online 
     image]. Unsplash. 
