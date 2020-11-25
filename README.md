@@ -4,6 +4,7 @@ The user audience for this website is catered to future employers who would like
 This website was designed with a modern and simple take. Each page contains flexboxes and media queries, thus making it a responsive website that caters to different devices and screen size. In creation of this portfolio website, I hope it gives my future employer a general idea about myself and my work.
 
 List of references
+
 Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime photo [Online 
     image]. Unsplash. 
     https://unsplash.com/photos/P9BY2joAcwk
