@@ -34,14 +34,8 @@ Freepik. (n.d.). Phone Call free icon [Online image]. Flaticon.
 Freepik. (n.d.). Strategy free icon [Online image]. Flaticon. 
     https://www.flaticon.com/free-icon/strategy_3062796?term=project&page=1&position=68
 
-Freepik. (n.d.). Work free icon [Online image]. Flaticon. 
-    https://www.flaticon.com/free-icon/work_2558412?term=references&page=1&position=18
-
 Gallagher, Nicolas. (2018). Normalize.css. (Version 8.0.1). GitHub.
     https://necolas.github.io/normalize.css/
-
-Graham, Scott. (2015). man writing on paper photo [Online image]. Unsplash. 
-    https://unsplash.com/photos/OQMZwNd3ThU
 
 Hume, Christin. (2018). person sitting in front of laptop photo [Online image]. Unsplash. 
     https://unsplash.com/photos/mfB1B1s4sMc
@@ -49,9 +43,6 @@ Hume, Christin. (2018). person sitting in front of laptop photo [Online image]. 
 Jeshoots. (2017). An open empty notebook on a white desk next to an iPhone and a MacBook photo 
     [Online image]. Unsplash. 
     https://unsplash.com/photos/pUAM5hPaCRI
-
-Kemper, Jonathan. (2020). macbook pro on brown wooden table photo [Online image]. Unsplash. 
-    https://unsplash.com/photos/zSCHyhiRSeQ
 
 Koloda, Vasily. (2018). group of fresh graduates students throwing their academic hat in the air 
     photo [Online image]. Unsplash. 
