@@ -24,7 +24,7 @@ Link:
 https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/EhNtCriqZDVHoYsSgtuYW4wBOd0iwJAV1qLCt53YGbCQhw?e=3cjdg1
 
 ### Adobe XD
-Attached here are my low-fidelity wireframes of my final design. The first link is for desktop, while the second link is for mobile.
+Attached here are my low-fidelity wireframes of my final design. The first link is to access the file, the second link is for desktop view, while the third link is for mobile view.
 
 Files:
 https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/Ei1fXNloXKVLsQ8SnoEKio0BRR2beBPcdSnRlaQpmK478Q?e=yGq4b7
