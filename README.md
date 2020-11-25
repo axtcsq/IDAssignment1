@@ -1,11 +1,18 @@
 # Assignment 1
-## Purpose and target audience
-The user audience for this website is catered to future employers who would like to look at my website portfolio. The purpose of this website is to create a portfolio about me, such that I can showcase it my future employer. Any external source code used can be found in the word document titled "References".
+The user audience for this website is catered to employers who would like to have a look at my portfolio. The purpose of this website is to create a portfolio about me, such that the employer have a better idea about me, and for me to showcase it to my employer. After navigating through my website, one should have a better idea about me.
 
-## How it was designed
-This website was designed with a modern and simple take. Each page contains flexboxes and media queries, thus making it a responsive website that caters to different devices and screen size. In creation of this portfolio website, I hope it gives my future employer a general idea about myself and my work.
+## Design Process
+For this assignment, this website has been designed to be simple, modern and aesthetically pleasing from the start. Personally as a user, I would like to navigate websites seamlessly with little clicks as much as possible. As employers tend to be busy with reviewing applicants and their portfolios, they would generally prefer so since it would reduce the time taken to review one's portfolio.
+
+With that said, I had to think of what are the important pages and informations I should include on my site. By thinking through the perspective of what an employer would like to see, I have came up with Home, Educcation, Skills, Projects and Contact page. 
+
+Previously I a Reference page was also created, but I have decided to remove it since it is likely that the employer would not bother seeing it. Thus, I have moved it to a section and have attached a Word document named "References". Doing so helps to make the navigation bar more simpler and clutter-free.
+
+As you navigate through the different pages, you would notice that there is strong uniformity in design language and layout. Thinking from the perspective of an employer and a user, it would be much professional to keep it uniformed and simple. Doing so also cuts down on development time, as I could simply reuse the shell and modify according to the page's requirements.
 
 ## References
+References are displayed here, it can also be found in the attached word document titled "References".
+
 Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime photo [Online 
     image]. Unsplash. 
     https://unsplash.com/photos/P9BY2joAcwk
