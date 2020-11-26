@@ -73,11 +73,11 @@ Animated visuals and elements - Helps to bring life to the website.
 
 * Skills page:
     * Go to the "Skills" page
-    * Try to test if same title description appears when a user hover mouse on different images in the flexbox, then verify that it succeeds.
     * Verify that everything is working well
 
 * Projects page:
     * Go to the "Projects" page
+    * Try to test if same title description appears when a user hover mouse on different images in the flexbox, then verify that it succeeds.
     * Verify that everything is working well
 
 * Contact page:
