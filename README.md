@@ -8,15 +8,20 @@ The user audience for this website is catered to employers who would like to hav
   * [Pictures](https://github.com/axtcsq/assignment1#pictures)
   * [Mockups and Diagrams](https://github.com/axtcsq/assignment1#mockups-and-diagrams)
   * [Adobe XD](https://github.com/axtcsq/assignment1#adobe-xd)
+
 * [Features](https://github.com/axtcsq/assignment1#features)
-  * []()
-  * []()
-  * []()
-* []()
-* []()
-* []()
-* []()
-* []()
+  * [Existing Features](https://github.com/axtcsq/assignment1#existing-features)
+  * [Features Left to Implement](https://github.com/axtcsq/assignment1#features-left-to-implement)
+
+* [Technologies Used](https://github.com/axtcsq/assignment1#technologies-used)
+
+* [Testing](https://github.com/axtcsq/assignment1#testing)
+  * [Different browsers and screen sizes](https://github.com/axtcsq/assignment1#different-browsers-and-screen-sizes)
+  * [Bugs](https://github.com/axtcsq/assignment1#bugs)
+
+* [Credits](https://github.com/axtcsq/assignment1#credits)
+  * [Content and Media](https://github.com/axtcsq/assignment1#content-and-media)
+  * [Acknowledgements](https://github.com/axtcsq/assignment1#acknowledgements)
 
 ## Design Process
 For this assignment, this website has been designed to be simple, modern and aesthetically pleasing from the start. Personally as a user, I would like to navigate websites seamlessly with little clicks as much as possible. As employers tend to be busy with reviewing applicants and their portfolios, they would generally prefer so since it would reduce the time taken to review one's portfolio.
