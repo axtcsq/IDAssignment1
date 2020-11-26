@@ -114,7 +114,7 @@ Animated visuals and elements - Helps to bring life to the website.
 * When displaying the website on different browsers, all seems to work well thanks to "normalize.css".
 * When displaying the website on different screen sizes, all seems to work well till the screen size goes lower than an iPhone X. More will be shared under bugs section.
 
-### Bugs
+### Bugs and Problems
 * When the screen size is set to be lower than iPhone X, such as Galaxy Fold, the header section would no longer be centralise.
   * This issue starts to occur at a resolution of (339x818).
 * When the screen size is set to be lower than Galaxy Fold, the website fails to display properly. A white sidebar would appear, the header section would no longer be centralise, while the navigation bar and flexboxes seems to be resizing accordingly well.
