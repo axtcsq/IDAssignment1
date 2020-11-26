@@ -100,6 +100,8 @@ Animated visuals and elements - Helps to bring life to the website.
 ## Credits
 References can also be found in the attached Word document titled "References".
 ### Media
+All photos used in this project were obtained from:
+
 Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime 
     photo [Online image]. Unsplash. 
     https://unsplash.com/photos/P9BY2joAcwk
@@ -181,6 +183,8 @@ Spratt, Annie. (2018). woman browsing on the internet photo [Online image]. Unsp
     https://www.zhonghuasec.moe.edu.sg/about-us
 
 ### Acknowledgements
+I received some additional help for this project from:
+
 W3Schools. (n.d.). CSS. W3Schools.
     https://www.w3schools.com/css/default.asp
 
