@@ -37,23 +37,20 @@ https://xd.adobe.com/view/2d970b33-6685-4265-8c0a-4c2fac96db05-78c4/?fullscreen
 
 ## Features
 ### Existing Features
-Flexboxes - Allows users to view website on different devices with different screen size.
-
-Form - Allows users to input text, select radio buttons, checkboxes and submit their response.
-
-Links embedded to picture when user hovers on it - Allows users to click on the respective link that is based on the picture. Helps to make the website looks cleaner as well.
-
-Alt text - Allows users to see a description of the image should it fail to load.
-
-Title - Allows users to read a more detailed description when user hovers on the image.
+* Flexboxes - Allows users to view website on different devices with different screen size.
+* Form - Allows users to input text, select radio buttons, checkboxes and submit their response.
+* Links embedded to picture when user hovers on it - Allows users to click on the respective link that is based on the picture. Helps to make the website looks cleaner as well.
+* Alt text - Allows users to see a description of the image should it fail to load.
+* Title - Allows users to read a more detailed description when user hovers on the image.
 
 ### Features Left to Implement
 Animated visuals and elements - Helps to bring life to the website.
 
 ## Technologies Used
-* [HTML](https://html.spec.whatwg.org/multipage/)
-  * The project requires HTML to display the contents
-
+* [HTML](https://www.w3.org/html/)
+  * The project requires HTML to display content.
+* [CSS](https://www.w3.org/Style/CSS/)
+  * The project uses CSS to improve the aesthetics of the website.
 ## Testing
 
 ## Credits
