@@ -60,7 +60,7 @@ https://xd.adobe.com/view/2d970b33-6685-4265-8c0a-4c2fac96db05-78c4/?fullscreen
 ## Features
 ### Existing Features
 * Flexboxes - Allows users to view website on different devices with different screen sizes.
-* Form - Allows users to input text, select radio buttons, checkboxes and submit their response. Validations is implemented for any input that uses a textbox.
+* Form - Allows users to input text via textbox, select radio buttons, checkboxes and submit their response. Validations is implemented for any input that uses a textbox.
 * Links embedded to picture when user hovers on it - Allows users to click on the respective link that is based on the picture. Helps to make the website looks cleaner as well.
 * Alt text - Allows users to see a description of the image should it fail to load.
 * Title - Allows users to read a more detailed description when user hovers on the image.
