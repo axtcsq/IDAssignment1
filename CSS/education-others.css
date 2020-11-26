@@ -9,6 +9,7 @@ body{
         background-repeat: no-repeat;
         background-size: cover;
         color: white;
+        width: auto;
     }
 
 h2{
