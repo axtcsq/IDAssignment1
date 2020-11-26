@@ -1,6 +1,23 @@
 # Assignment 1
 The user audience for this website is catered to employers who would like to have a look at my portfolio. The purpose of this website is to create a portfolio about me, such that the employer have a better idea about me, and for me to showcase it to my employer. After navigating through my website, one should have a better idea about me.
 
+## Table of Contents
+* [Design Process](https://github.com/axtcsq/assignment1#design-process)
+  * [Uniformity and Simplicity](https://github.com/axtcsq/assignment1#uniformity-and-simplicity)
+  * [Dark mode](https://github.com/axtcsq/assignment1#dark-mode)
+  * [Pictures](https://github.com/axtcsq/assignment1#pictures)
+  * [Mockups and Diagrams](https://github.com/axtcsq/assignment1#mockups-and-diagrams)
+  * [Adobe XD](https://github.com/axtcsq/assignment1#adobe-xd)
+* [Features](https://github.com/axtcsq/assignment1#features)
+  * []()
+  * []()
+  * []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
 ## Design Process
 For this assignment, this website has been designed to be simple, modern and aesthetically pleasing from the start. Personally as a user, I would like to navigate websites seamlessly with little clicks as much as possible. As employers tend to be busy with reviewing applicants and their portfolios, they would generally prefer so since it would reduce the time taken to review one's portfolio.
 
