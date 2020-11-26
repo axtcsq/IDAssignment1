@@ -53,6 +53,9 @@ Animated visuals and elements - Helps to bring life to the website.
   * The project uses CSS to improve the aesthetics of the website, and is also used to make it into a responsive website.
 
 ## Testing
+* Index page:
+    * Go to the "index" page
+    * Try to test if flexbox resizes to different screen resolution and verify that it succeeds
 
 ## Credits
 ### Media
