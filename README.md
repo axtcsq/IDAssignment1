@@ -53,9 +53,36 @@ Animated visuals and elements - Helps to bring life to the website.
   * The project uses CSS to improve the aesthetics of the website, and is also used to make it into a responsive website.
 
 ## Testing
+* All pages (Common elements):
+    * Try to test if all images loads, if it fails verify that alt text appears as a failsafe method
+    * Try to test if all images are displaying at full quality, then verify that it is.
+    * Try to test if flexbox's width, layout changes and resizes accordingly to different screen resolution and verify that it succeeds
+    * Try to test if there is margin and padding between text and flexbox, then verify that it succeeds.
+    * Try to test if all text are properly displayed, then verify that it does.
+    * Try to test if all links are linked correctly and working, then verify that it is successful
+    * Try to test if all external CSS referenced have all loaded correct, then verify that it succeeds.
+  
 * Index page:
     * Go to the "index" page
-    * Try to test if flexbox resizes to different screen resolution and verify that it succeeds
+    * Verify that everything is working well
+
+* Education page:
+    * Go to the "Education" page
+    * Try to test if different title description appears when a user hover mouse on different images in the flexbox, then verify that it succeeds.
+    * Verify that everything is working well
+
+* Skills page:
+    * Go to the "Skills" page
+    * Try to test if same title description appears when a user hover mouse on different images in the flexbox, then verify that it succeeds.
+    * Verify that everything is working well
+
+* Projects page:
+    * Go to the "Projects" page
+    * Verify that everything is working well
+
+* Contact page:
+    * x
+    * x
 
 ## Credits
 ### Media
