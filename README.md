@@ -206,7 +206,7 @@ Spratt, Annie. (2018). woman browsing on the internet photo [Online image]. Unsp
     https://www.zhonghuasec.moe.edu.sg/about-us
 
 ### Acknowledgements
-I received some additional help for this project from:
+I have referred to some additional resources for this project from:
 
 W3Schools. (n.d.). CSS. W3Schools.
     https://www.w3schools.com/css/default.asp
