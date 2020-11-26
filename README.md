@@ -99,7 +99,8 @@ Animated visuals and elements - Helps to bring life to the website.
 
 ## Credits
 References can also be found in the attached Word document titled "References".
-### Media
+
+### Content and Media
 All photos used in this project were obtained from:
 
 Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime 
