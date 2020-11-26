@@ -61,7 +61,7 @@ https://xd.adobe.com/view/2d970b33-6685-4265-8c0a-4c2fac96db05-78c4/?fullscreen
 ### Existing Features
 * Flexboxes - Allows users to view website on different devices with different screen sizes.
 * Form - Allows users to input text via textbox, select radio buttons, checkboxes and submit their response. Validations are implemented for any input that uses a textbox.
-* Links embedded to picture when user hovers on it - Allows users to click on the respective link that is based on the picture. Helps to make the website looks cleaner as well.
+* Links embedded to picture when user hovers on it - Allows users to click on an image attached with a link. Links opens up in a separate tab. Doing so helps to make the website look cleaner and prevents browsing disruption to the user.
 * Alt text - Allows users to see a description of the image should it fail to load.
 * Title - Allows users to read a more detailed description when user hovers on the image.
 
@@ -91,6 +91,7 @@ Animated visuals and elements - Helps to bring life to the website.
 * Education page:
     * Go to the "Education" page
     * Try to test if different title description appears when a user hover mouse on different images in the flexbox, then verify that it succeeds.
+    * Try to test if clicking on an image attached with a link would open in a separate tab, then verify that it succeeds.
     * Verify that everything is working well
 
 * Skills page:
