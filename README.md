@@ -51,7 +51,7 @@ Title - Allows users to read a more detailed description when user hovers on the
 Animated visuals and elements - Helps to bring life to the website.
 
 ## Technologies Used
-* [HTML]https://html.spec.whatwg.org/multipage/
+* [HTML](https://html.spec.whatwg.org/multipage/)
   * The project requires HTML to display the contents
 
 ## Testing
