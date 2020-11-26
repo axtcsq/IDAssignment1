@@ -1,5 +1,5 @@
 # Assignment 1
-The user audience for this website is catered to employers who would like to have a look at my portfolio. The purpose of this website is to create a portfolio about me, such that the employer have a better idea about me, and for me to showcase it to my employer. After navigating through my website, one should have a better idea about me.
+The user audience for this website is catered to employers who would like to have a look at my portfolio. The purpose of this website is to create a portfolio about me, such that the employer has a better idea about me, and for me to showcase it to my employer. After navigating through my website, one should have a better idea about me.
 
 ## Table of Contents
 * [Design Process](https://github.com/axtcsq/assignment1#design-process)
