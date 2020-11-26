@@ -17,7 +17,7 @@ The user audience for this website is catered to employers who would like to hav
 
 * [Testing](https://github.com/axtcsq/assignment1#testing)
   * [Different Browsers and Screen Sizes](https://github.com/axtcsq/assignment1#different-browsers-and-screen-sizes)
-  * [Bugs and Problems](https://github.com/axtcsq/assignment1#bugs)
+  * [Bugs and Problems](https://github.com/axtcsq/assignment1#bugs-and-problems)
 
 * [Credits](https://github.com/axtcsq/assignment1#credits)
   * [Content and Media](https://github.com/axtcsq/assignment1#content-and-media)
