@@ -118,6 +118,7 @@ Animated visuals and elements - Helps to bring life to the website.
   * This issue starts to occur at a resolution of (339x818).
 * When the screen size is set to be lower than Galaxy Fold, the website fails to display properly. A white sidebar would appear, the header section would no longer be centralise, while the navigation bar and flexboxes seems to be resizing accordingly well.
   * This issue starts to occur at a resolution of (249x818).
+* Form elements does not align properly.
 
 ## Credits
 References can also be found in the attached Word document titled "References".
