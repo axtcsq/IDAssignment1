@@ -51,6 +51,7 @@ Animated visuals and elements - Helps to bring life to the website.
   * The project requires HTML to display content.
 * [CSS](https://www.w3.org/Style/CSS/)
   * The project uses CSS to improve the aesthetics of the website.
+
 ## Testing
 
 ## Credits
