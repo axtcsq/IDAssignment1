@@ -39,7 +39,7 @@ https://xd.adobe.com/view/2d970b33-6685-4265-8c0a-4c2fac96db05-78c4/?fullscreen
 ### Existing Features
 Flexboxes - Allows users to view website on different devices with different screen size.
 
-Forms - Allows users to select, input text and submit their response
+Form - Allows users to input text, select radio buttons, checkboxes and submit their response.
 
 Links embedded to picture when user hovers on it - Allows users to click on the respective link that is based on the picture. Helps to make the website looks cleaner as well.
 
