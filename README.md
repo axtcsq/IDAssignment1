@@ -30,10 +30,10 @@ Files:
 https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/Ei1fXNloXKVLsQ8SnoEKio0BRR2beBPcdSnRlaQpmK478Q?e=yGq4b7
 
 Desktop wireframe (Share URL):
-To be added once Adobe Outage is fixed
+https://xd.adobe.com/view/ece2933c-90d0-45de-9e9b-81b4f4be8a92-b9b1/?fullscreen
 
 Mobile wireframe (Share URL):
-To be added once Adobe Outage is fixed
+https://xd.adobe.com/view/2d970b33-6685-4265-8c0a-4c2fac96db05-78c4/?fullscreen
 
 ## Features
 ### Existing Features
