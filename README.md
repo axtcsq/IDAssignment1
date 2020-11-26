@@ -37,7 +37,7 @@ https://xd.adobe.com/view/2d970b33-6685-4265-8c0a-4c2fac96db05-78c4/?fullscreen
 
 ## Features
 ### Existing Features
-* Flexboxes - Allows users to view website on different devices with different screen size.
+* Flexboxes - Allows users to view website on different devices with different screen sizes.
 * Form - Allows users to input text, select radio buttons, checkboxes and submit their response.
 * Links embedded to picture when user hovers on it - Allows users to click on the respective link that is based on the picture. Helps to make the website looks cleaner as well.
 * Alt text - Allows users to see a description of the image should it fail to load.
@@ -87,10 +87,19 @@ Animated visuals and elements - Helps to bring life to the website.
     * Try to test if submit button displays correctly and works partially, then verify that it does. If "HTTP ERROR 405" shows up, ignore as there is no where to redirect the submission yet.  
     * Verify that everything is working well
 
-## Credits
-### Media
-References can also be found in the attached Word document titled "References".
+### Different browsers and screen sizes
+* When displaying the website on different browsers, all seems to work well thanks to "normalize.css".
+* When displaying the website on different screen sizes, all seems to work well till the screen size goes lower than an iPhone X. More will be shared under bugs section.
 
+### Bugs
+* When the screen size is set to be lower than iPhone X, such as Galaxy Fold, the header section would no longer be centralise.
+  * This starts to occur at resolution of (339x818).
+* When the screen size is set to be lower than Galaxy Fold, the website fails to display properly. A white sidebar would appear, the header section would no longer be centralise, while the navigation bar and flexboxes seems to be resizing accordingly well.
+  * This starts to occur at resolution of (249x818).
+
+## Credits
+References can also be found in the attached Word document titled "References".
+### Media
 Davies, Benjamin. (2017). person standing on gray high-rise rock formation at daytime 
     photo [Online image]. Unsplash. 
     https://unsplash.com/photos/P9BY2joAcwk
