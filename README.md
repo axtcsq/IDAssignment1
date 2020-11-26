@@ -49,12 +49,15 @@ https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_s
 Attached here are my low-fidelity wireframes of my final design. The first link is to access the file, the second link is for desktop view, while the third link is for mobile view.
 
 Files:
+
 https://connectnpedu-my.sharepoint.com/:f:/g/personal/s10194188_connect_np_edu_sg/Ei1fXNloXKVLsQ8SnoEKio0BRR2beBPcdSnRlaQpmK478Q?e=yGq4b7
 
 Desktop wireframe (Share URL):
+
 https://xd.adobe.com/view/ece2933c-90d0-45de-9e9b-81b4f4be8a92-b9b1/?fullscreen
 
 Mobile wireframe (Share URL):
+
 https://xd.adobe.com/view/2d970b33-6685-4265-8c0a-4c2fac96db05-78c4/?fullscreen
 
 ## Features
