@@ -16,8 +16,8 @@ The user audience for this website is catered to employers who would like to hav
 * [Technologies Used](https://github.com/axtcsq/assignment1#technologies-used)
 
 * [Testing](https://github.com/axtcsq/assignment1#testing)
-  * [Different browsers and screen sizes](https://github.com/axtcsq/assignment1#different-browsers-and-screen-sizes)
-  * [Bugs](https://github.com/axtcsq/assignment1#bugs)
+  * [Different Browsers and Screen Sizes](https://github.com/axtcsq/assignment1#different-browsers-and-screen-sizes)
+  * [Bugs and Problems](https://github.com/axtcsq/assignment1#bugs)
 
 * [Credits](https://github.com/axtcsq/assignment1#credits)
   * [Content and Media](https://github.com/axtcsq/assignment1#content-and-media)
@@ -110,7 +110,7 @@ Animated visuals and elements - Helps to bring life to the website.
     * Try to test if submit button displays correctly and works partially, then verify that it does. If "HTTP ERROR 405" shows up, ignore as there is no where to redirect the submission yet.  
     * Verify that everything is working well
 
-### Different browsers and screen sizes
+### Different Browsers and Screen Sizes
 * When displaying the website on different browsers, all seems to work well thanks to "normalize.css".
 * When displaying the website on different screen sizes, all seems to work well till the screen size goes lower than an iPhone X. More will be shared under bugs section.
 
