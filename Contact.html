@@ -62,36 +62,57 @@
                 </figure>
 
                 <form action="/action_page.php" method="POST" style="text-align: center;">
-                    <!--Name question with small textbox-->
+                    <!--Name question with a textbox-->
+                    <h3>Name:</h3>
+                    <input type="text" placeholder="Enter your name" name="name">
+
+                    <!--Email question with a textbox and validation-->
                     <h3>Email:</h3>
-                      <input type="email" placeholder="Enter your email" name="email">
+                    <input type="email" placeholder="Enter your email" name="email">
                   
                     <!--Age question with radio buttons-->
-                    <h3>Select your age:</h3>
-                      <input type="radio" id="age1" name="age" value="30">
-                      <label for="age1">0 - 30</label><br>
-                      <input type="radio" id="age2" name="age" value="60">
-                      <label for="age2">31 - 60</label><br>  
-                      <input type="radio" id="age3" name="age" value="80">
-                      <label for="age3">61 - 80</label><br>
-                      <input type="radio" id="age4" name="age" value="100">
-                      <label for="age3">81 - 100</label>
+                    <h3>Select your age group:</h3>
+                    
+                        <!--Option 1: Child-->
+                        <input type="radio" id="age1" name="age" value="Child">
+                        <label for="agegrp1">Child</label><br>
+                        
+                        <!--Option 2: Young Adult-->
+                        <input type="radio" id="age2" name="age" value="Young Adult">
+                        <label for="agegrp2">Young Adult</label><br>  
+                        
+                        <!--Option 3: Adult-->
+                        <input type="radio" id="age3" name="age" value="Adult">
+                        <label for="agegrp3">Adult</label><br>
+                        
+                        <!--Option 4: Elderly-->
+                        <input type="radio" id="age4" name="age" value="Elderly">
+                        <label for="agegrp4">Elderly</label>
                   
                     <!--Enquiry question with checkboxes-->  
                     <h3>Enquiry on:</h3>
-                      <input type="checkbox" id="choice1" name="choice1" value="Education background">
-                      <label for="choice1">Education background</label><br>
-                      <input type="checkbox" id="choice2" name="choice2" value="Project experiences">
-                      <label for="choice2">Project experiences</label><br>
-                      <input type="checkbox" id="choice3" name="choice3" value="Skills">
-                      <label for="choice3">Skills</label><br>
-                      <input type="checkbox" id="choice4" name="choice4" value="Others">
-                      <label for="choice4">Others</label><br>
                     
-                    <!--Message and feedback question with a large textbox-->
-                    <h3>Message & feedback:</h3>
-                    <textarea rows="5" cols="30" name="textbox" placeholder="Enter text here"></textarea>
-        
+                        <!--Option 1: Education background-->
+                        <input type="checkbox" id="choice1" name="choice1" value="Education background">
+                        <label for="choice1">Education background</label><br>
+                        
+                        <!--Option 2: Project experiences-->
+                        <input type="checkbox" id="choice2" name="choice2" value="Project experiences">
+                        <label for="choice2">Project experiences</label><br>
+                        
+                        <!--Option 3: Skills-->
+                        <input type="checkbox" id="choice3" name="choice3" value="Skills">
+                        <label for="choice3">Skills</label><br>
+                        
+                        <!--Option 4: Others-->
+                        <input type="checkbox" id="choice4" name="choice4" value="Others">
+                        <label for="choice4">Others</label><br>
+                    
+                    <!--Message question with a textbox-->
+                    <h3>Message:</h3>
+                    <textarea rows="4" cols="30" name="textbox" placeholder="Enter text here"></textarea>
+                    
+                    <!--Creates space and new line between Message question and submit button-->
                     <br><br>
         
                     <!--Submit button-->
