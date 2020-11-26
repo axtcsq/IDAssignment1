@@ -84,7 +84,7 @@ Animated visuals and elements - Helps to bring life to the website.
     * Go to the "Contact" page
     * Try to test if different title description appears when a user hover mouse on different images in the flexbox, then verify that it succeeds.
     * Try to test if user is able to input text in textbox, select radio buttons and checkboxes, then verify that it succeeds.
-    * Try to test if submit button displays correctly and works partially, then verify that it does. If "HTTP ERROR 405" comes up, ignore as there is no where to redirect the submission yet.  
+    * Try to test if submit button displays correctly and works partially, then verify that it does. If "HTTP ERROR 405" shows up, ignore as there is no where to redirect the submission yet.  
     * Verify that everything is working well
 
 ## Credits
