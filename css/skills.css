@@ -12,7 +12,7 @@ h2 {
 .header {
   padding: 100px;
   text-align: center;
-  background-image: url(../pictures/skills2.jpg);
+  background-image: url(../images/skills2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -30,7 +30,7 @@ h2 {
       flex-wrap: wrap;
       justify-content: center;
       align-items: center;
-      background-image: url(../pictures/skills3.jpg);
+      background-image: url(../images/skills3.jpg);
       background-repeat: no-repeat;
       background-size: cover;
     }
@@ -57,7 +57,7 @@ h2 {
       flex-wrap: wrap;
       justify-content: center;
       align-items: center;
-      background-image: url(../pictures/skills3.jpg);
+      background-image: url(../images/skills3.jpg);
       background-repeat: no-repeat;
       background-size: cover;
     }
