@@ -65,7 +65,7 @@ h2 {
     .flex-container > li {
       background: linear-gradient(to top left, #28313b 0%, #485461 100%);
       width: 500px;
-      height: 450px;
+      height: 500px;
       margin: 10px;
       padding: 10px;
       text-align: center;
