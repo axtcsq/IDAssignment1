@@ -1,0 +1,75 @@
+/* Body and text */
+body {   
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #000000;
+  }
+
+h3 {
+  text-align: center;
+}
+
+/* Header class */
+.header {
+      padding: 100px;
+      text-align: center;
+      background-image: url(../pictures/forms.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: white;
+      width: auto;
+  }
+
+/* Flexboxes and media queries */
+/* Small screen */
+@media only screen and (max-width:600px){
+  ul {list-style: none;}
+
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../pictures/forms3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .flex-container > li {
+    background: linear-gradient(to top left, #28313b 0%, #485461 100%);
+    width: 300px;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+  }
+}
+
+/* Big screen */
+@media only screen and (min-width:601px){
+  ul {list-style: none;}
+
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../pictures/forms3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .flex-container > li {
+    background: linear-gradient(to top left, #28313b 0%, #485461 100%);
+    width: 500px;
+    height: 250px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+  }
+}
