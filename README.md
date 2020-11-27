@@ -123,6 +123,7 @@ Animated visuals and elements - Helps to bring life to the website.
 * Form elements such as radio buttons and checkboxes does not align properly.
 * Adding either figure semantic element or setting the padding to beyond 110px to the header, causes the header to display off-centre when viewing on small screen sizes.
   * This issue has since been fixed by removing the figure semantic element and setting the padding to 100px.
+* Unable to merge and link all external CSS files into one external CSS file.
 
 ## Credits
 References can also be found in the attached Word document titled "References".
