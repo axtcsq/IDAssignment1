@@ -57,6 +57,13 @@ https://xd.adobe.com/view/ece2933c-90d0-45de-9e9b-81b4f4be8a92-b9b1/?fullscreen
 Mobile wireframe (Share URL):
 https://xd.adobe.com/view/2d970b33-6685-4265-8c0a-4c2fac96db05-78c4/?fullscreen
 
+### GitHub
+Github repository:
+https://github.com/axtcsq/IDAssignment1
+
+Github pages:
+https://axtcsq.github.io/IDAssignment1/
+
 ## Features
 ### Existing Features
 * Flexboxes - Allows users to view website on different devices with different screen sizes.
